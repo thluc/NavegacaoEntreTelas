@@ -9,5 +9,12 @@
 </div>
 
 
+<div align="center">
+<img src="https://files.catbox.moe/24353k.gif">
+</div>
 
-<img align="center" src="https://files.catbox.moe/24353k.gif">
+<div align="center">
+  <h2 align="center">👨‍💻 - Desenvolvedor</h2>
+        <p><a href='https://github.com/thluc'>Thiago dos Santos</a></p>
+</div>
+
