@@ -13,6 +13,14 @@
 <img src="https://files.catbox.moe/24353k.gif">
 </div>
 
+<br>
+
+<h2 align="center"> 🛠 Ferramentas Utilizadas: </h2>
+<p align="center"> • Android Studio </p>
+</div>
+
+<br>
+
 <div align="center">
   <h2 align="center">👨‍💻 - Desenvolvedor</h2>
         <p><a href='https://github.com/thluc'>Thiago dos Santos</a></p>
